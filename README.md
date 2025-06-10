@@ -1,1 +1,1 @@
-<img title="Reno-banner" src="https://reno.up.railway.app/static/asset/banner.png">
+<img title="Reno-banner" src="https://github.com/longstock/longstock/blob/main/assets/banner.png?raw=true">
